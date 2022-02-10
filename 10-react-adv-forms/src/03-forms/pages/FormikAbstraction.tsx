@@ -44,19 +44,19 @@ export const FormikAbstraction = () => {
                                 <MyTextInput
                                   label="First Name"
                                   name="firstName" 
-                                  placeholder="Juanga"
+                                  placeholder="Fernando"
                                 />
 
                                 <MyTextInput
                                   label="Last Name"
                                   name="lastName" 
-                                  placeholder="Aira"
+                                  placeholder="Herrera"
                                 />          
 
                                 <MyTextInput
                                   label="Email Address"
                                   name="email" 
-                                  placeholder="juanaira146@gmail.com"
+                                  placeholder="jonh@google.com"
                                   type="email"
                                 />                                
 
