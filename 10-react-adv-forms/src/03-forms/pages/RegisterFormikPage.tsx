@@ -43,14 +43,14 @@ export const RegisterFormikPage = () => {
                         <MyTextInput 
                             label="Nombre"
                             name="name"
-                            placeholder="Fernando"
+                            placeholder="Juan"
                         />
 
                         <MyTextInput 
                             label="Email"
                             name="email"
                             type="email"
-                            placeholder="john@google.com"
+                            placeholder="juanaira146@gmail.com"
                         />
 
                         <MyTextInput 
